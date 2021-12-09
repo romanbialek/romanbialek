@@ -12,7 +12,7 @@
 <br />
 -📸 [PicTop - Photo Advisor (Android)](https://play.google.com/store/apps/details?id=com.rbmobile.pictop)
 <br />
--🎾 [epadel.pl](https//www.epadel.pl)
+-🎾 [epadel.pl](https://www.epadel.pl)
 
 
 
