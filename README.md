@@ -12,7 +12,7 @@
 <br />
 -🎾 [epadel.pl](https://www.epadel.pl)
 <br />
--🎾 [racketscore.github.io](https:/racketscore.github.io)
+-🎾 [racketscore.github.io](https://racketscore.github.io)
 
 
 ---
