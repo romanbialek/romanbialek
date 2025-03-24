@@ -1,9 +1,12 @@
 
-# Hi there, I'm Roman - Mobile Developer 👨‍💻✌️ 
-### Non-boring repos are private... sorry
-But I've got something for you https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# Hi there, I'm Roman - Mobile Developer 👨‍💻 
 
-you welcome :)
+The non-boring repos are private... sorry,\
+but I've got something for you!
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+you welcome 😎✌️
 
 ---
 
