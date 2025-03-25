@@ -1,6 +1,3 @@
-
-# Hi there, I'm Roman - Mobile Developer 👨‍💻 
-
 The non-boring repos are private... sorry,\
 but I've got something for you!
 
